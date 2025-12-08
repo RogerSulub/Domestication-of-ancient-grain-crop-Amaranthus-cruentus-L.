@@ -1,2 +1,2 @@
 # Domestication-of-ancient-grain-crop-Amaranthus-cruentus-L.
-Codes uses for population analyses on whole genome sequencing data of Amaranthus cruentus and realitves
+Grain amaranths are nutritious pseudocereals that have been domesticated in the Andes and North America mainly in Mexico. The repeated domestication of grain amaranths has recently been studied using genome-wide data. The results suggested independent processes of domestication from Amaranthus hybridus L. in different geographical regions. Although domestication process of the three grain amaranths has been partially elucidated, the detailed domestication centers remain unknown. 
